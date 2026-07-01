@@ -682,20 +682,6 @@ h3 {
     var(--navy);
 }
 
-.contact-person {
-  display: grid;
-  gap: 4px;
-  margin-bottom: 22px;
-}
-
-.contact-person strong {
-  font-size: clamp(28px, 3vw, 40px);
-}
-
-.contact-person > span {
-  color: rgba(255, 255, 255, 0.78);
-}
-
 .notice {
   color: rgba(255, 255, 255, 0.76) !important;
 }
